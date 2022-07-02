@@ -9,7 +9,6 @@ setup(
         'click',
         'requests',
         'beautifulsoup4',
-        'python-pushover',
         'notifiers',
         'xmpppy',
         'python-dotenv',
